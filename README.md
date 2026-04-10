@@ -1,7 +1,7 @@
 # Tugas Algoritma dan Struktur Data P5: Array
 
 Nama: Aina Ramadani  
-NIM: 251011700730
+NIM: 251011700730  
 Kelas: 02SIFP012
 
 ## Deskripsi
